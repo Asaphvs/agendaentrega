@@ -1,0 +1,17 @@
+[
+  {
+  "nome" : "Administrador",
+  "login": "admin",
+  "senha": "senha"
+  },
+  {
+    "nome" : "deivid",
+    "login": "deivid.santos",
+    "senha": "123456"
+  },
+  {
+    "nome" : "asaph",
+    "login": "asaph.varela",
+    "senha": "654321"
+  }
+]
